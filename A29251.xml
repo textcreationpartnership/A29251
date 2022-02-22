@@ -1,0 +1,945 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appendix to the discourse upon the doctrine of our baptismal covenant being a method of family-religion / by Thomas Bray ...</title>
+            <author>Bray, Thomas, 1658-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29251</idno>
+            <idno type="STC">Wing B4288</idno>
+            <idno type="STC">ESTC R34276</idno>
+            <idno type="EEBO-CITATION">14173542</idno>
+            <idno type="OCLC">ocm 14173542</idno>
+            <idno type="VID">102169</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29251)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102169)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1565:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appendix to the discourse upon the doctrine of our baptismal covenant being a method of family-religion / by Thomas Bray ...</title>
+                  <author>Bray, Thomas, 1658-1730.</author>
+               </titleStmt>
+               <extent>[48] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Will. Howes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Family --  Prayer-books and devotions.</term>
+               <term>Devotional literature.</term>
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102169:1" rendition="simple:additions"/>
+            <p>AN APPENDIX TO THE DISCOURSE Upon the Doctrine of our Baptiſmal Covenant: BEING A METHOD OF <hi>FAMILY-RELIGION.</hi>
+            </p>
+            <p>By <hi>THOMAS BRAY,</hi> D.D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Will. Hawes,</hi> at the <hi>Roſe</hi> in <hi>Ludgate-ſtreet,</hi> 1699.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:102169:2"/>
+            <pb facs="tcp:102169:2"/>
+            <head>The PREFACE.</head>
+            <p>THE Deſign of the foregoing Diſ<g ref="char:EOLhyphen"/>courſe, being to Principle the Minds of our Youth with a true Notion of Chriſtianity, by a courſe of Reading upon the Nature of their Baptiſmal Covenant; And few of our Youth being ſerious enough to Re<g ref="char:EOLhyphen"/>liſh ſuch Employment to that degree, as to betake themſelves to Reading, if not encou<g ref="char:EOLhyphen"/>rag'd and oblig'd thereunto by their Parents and Maſters; ſo that it is very rare to find where there is no performance of Family Re<g ref="char:EOLhyphen"/>ligion, that the Children and Servants be<g ref="char:EOLhyphen"/>longing to it are not notoriouſly Ignorant and Immoral, for theſe Reaſons I have been much ſolicited to annex the following Method of Family Religion; as that without which the precding Diſcourſe will not have its End in the Edification of our Youth; who if they neither read it themſelves, nor hear it read by others, cannot be ſuppos'd to receive be<g ref="char:EOLhyphen"/>nefit by it.</p>
+            <p>Nor will it, I hope, be thought ſtrange, that in the following Method of Family Religion, the firſt thing I propoſe is the <hi>Singing of Pſalms.</hi> I believe indeed it will be found, if we ſhould look back into the <hi>Cauſes of the Decay of Chriſtian Piety</hi> in Families, that
+<pb facs="tcp:102169:3"/> the neglect of Family Religion has its date from the diſuſe of <hi>Singing Pſalms</hi> therein. This is a part of Devotion not more noble in it ſelf, than it is pleaſant and inviting to o<g ref="char:EOLhyphen"/>thers; and therefore it will be the likelieſt means to draw the whole Family together, to begin with a Pſalm. And that it may be the more taking, I have not only ſet the following Pſalms to the choiceſt Tunes, but given them out of the New Verſion of Mr. <hi>Brady</hi> and Mr. <hi>Tate,</hi> being perſwaded that the Contempt into which Singing of Pſalms is grown amongſt us, is owing to the very ill and ridiculous Metre of <hi>Hopkins</hi> and <hi>Sternhold,</hi> and the equally bad Singing of them in our Country Churches. And now, all that I ſhall add up<g ref="char:EOLhyphen"/>on this point is this, that the beſt way to have them ſung in Families, is to have the Youth practice it at their <hi>Catechetical Con<g ref="char:EOLhyphen"/>ferences;</hi> and the likelieſt Method to bring 'em into Common Uſe in Churches, is firſt to have Families accuſtomed to the ſinging of them.</p>
+            <p>The next thing to be accounted for, is the <hi>Courſe of Reading</hi> I propoſe in the following Method. And as it is a Courſe of Reading upon the ſeveral Subjects of our Church-Ca<g ref="char:EOLhyphen"/>techiſm, ſo I hope it will be thought the beſt I cou'd pitch upon. This beſt of Catechiſms
+<pb facs="tcp:102169:3"/> does adminiſter Inſtructions in the moſt ac<g ref="char:EOLhyphen"/>curate Method poſſible. It teaches us nothing ſuperfluous and unneceſſary to be known, but gives us to underſtand the whole Doctrine of the Covenant of Grace; and that in an excel<g ref="char:EOLhyphen"/>lent Method; treating firſt of the General Nature thereof in the <hi>Preliminary Queſtions and Anſwers;</hi> and deſcending afterwards particularly to inſtruct its Diſciples in the ſe<g ref="char:EOLhyphen"/>veral Articles; and ends with thoſe Means of performing our Covenant, Prayer, and the Sacraments: And therefore, according to this Method, I would have the Reading order'd in Families, according to which if it ſhould be manag'd, I cannot doubt but that Chriſtian Knowledge would grow upon us a-pace; and Hereſy and Error would more difficultly find Entertainment than it does.</p>
+            <p>And now as to the Morning and Evening Prayer I propoſe; in the Families of Per<g ref="char:EOLhyphen"/>ſons of Quality, where there is more leiſure for longer Devotions, it is incomparably the beſt way to uſe the <hi>Common Prayer:</hi> But in meaner Families, where ſo much time cannot be allow'd, next to the Common Prayer, I thought a better cou'd not be compos'd for that Purpoſe, than a Prayer form'd out of our Catechiſm, wherein all the Mercies of God's Part in the Covenant, are recounted with
+<pb facs="tcp:102169:4"/> Thankſgiving, and all the Conditions on ours are enumerated, together with Petitions for God's Grace to aſſiſt us in the Performance of them.</p>
+            <p>And now I have only this to add to you, who are Parents and Maſters of Families, that you wou'd unanimouſly, and univerſally ſet up a Courſe of Family Religion in your reſpective Houſes.</p>
+            <p>There ſeems to be a general Apoſtacy from Chriſtianity now growing upon the Nation: And one great Reaſon that Atheiſm and Ir<g ref="char:EOLhyphen"/>religion has ſo prevail'd, is, that the preſent Generation of Men have ſeen no more of Re<g ref="char:EOLhyphen"/>ligion, than what they hear in our Churches; the Inſtructions from whence cannot be ſuffi<g ref="char:EOLhyphen"/>cient to reform the World, if the Application be not made by Parents, and Maſters at home; much leſs, if they take not care ſo much as to ſend their Youth to Church to be Catechis'd and Inſtructed. And indeed it does infi<g ref="char:EOLhyphen"/>nitely deſerve your most ſerious Conſidera<g ref="char:EOLhyphen"/>tion, how far you will be anſwerable for the Souls of thoſe who are within your Houſes, and under your Paternal Care. The Fate of old <hi>Ely,</hi> and his Family, for not honouring God, by taking Care to the Piety of his Chil<g ref="char:EOLhyphen"/>dren, wou'd be very awakening to thoſe who conſider it. And the extraordinary Regard
+<pb facs="tcp:102169:4"/> God bore to <hi>Abraham,</hi> meerly becauſe <hi>he knew he would command his Children, and his Houſhold after him, that they ſhould keep the way of the Lord,</hi> is equally encouraging to you to take care of Religion in your Families. Wherefore let that Reſolution of <hi>Joſhua</hi> be the Reſolution of every one of you: <hi>As for me, and my Houſe, we will ſerve the Lord.</hi>
+            </p>
+            <p>And that no Aſſiſtance may be wanting to you for your Childrens Devotion, as well as Inſtruction, I have added the following <hi>Office for Youth.</hi> It was for the moſt part compiled by Dr. <hi>Alexander Noel,</hi> once Dean of St. <hi>Paul</hi>'s, for the <g ref="char:V">Ʋ</g>ſe of Schools; and to make it more generally <g ref="char:V">Ʋ</g>ſeful thereunto, I have not only tranſlated it, but added ſome few Prayers more for the Youth, and Servants of a Family: And if due Care ſhall be taken both in Schools and Families, that all the Youth belong<g ref="char:EOLhyphen"/>ing to each, ſhall to Knowledge add Piety and De<g ref="char:EOLhyphen"/>votion, it will turn no doubt to a comfortable Ac<g ref="char:EOLhyphen"/>count one Day, as to thoſe Paſtors who ſhall thus faithfully inſpect their tender Flock, ſo to thoſe Maſters of Schools and Families, who ſhall take Care thus to train up the Youth belonging to their Char<g ref="char:EOLhyphen"/>ges reſpectively in the Knowledge and Fear of God.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:102169:5"/>
+            <head>A Method of <hi>FAMILY-DEVOTION.</hi>
+            </head>
+            <p>THE foregoing ſhort diſcourſe upon the Do<g ref="char:EOLhyphen"/>ctrine of our <hi>Baptiſmal Covenant,</hi> is deſign'd to lay the Foundation of Chriſtian Knowledge in Youth. And this ſhort Method of Family-De<g ref="char:EOLhyphen"/>votion is form'd in order to revive the moſt principal part of Chriſtian Practice in Families: And for want of both which, the Youth that hap<g ref="char:EOLhyphen"/>pen therein are undone throughout the Nation.</p>
+            <p>Now there were never greater variety of better Helps to Families in this kind, than have been given us of late Years, by ſeveral pious Divines of our own Church. And to bring them more into uſe, I ſhall venture to propoſe this following Method.</p>
+            <p>In the firſt place, the whole Family being call'd together, I would propoſe there might be a <hi>Pſalm</hi> ſung; for there is a moſt inviting, and popular, as well as a moſt Heavenly Part of Divine Worſhip. And becauſe there is now ſo good a Verſion of the Pſalms given us by <hi>Brady</hi> and <hi>Tate,</hi> and theſe revis'd by ſeveral Biſhops, and allow'd by Publick Authority to be ſung in Churches, I would propoſe the Uſe of them in Families at leaſtwiſe, and could wiſh they were introduc'd into our Publick Aſſemblies.</p>
+            <p>The Diſadvantage that <hi>Pſalmody</hi> does at this day lye under, by reaſon of the intolerable bad<g ref="char:EOLhyphen"/>neſs of our Metre, and the ill ſinging of our Pſalms in Country-Churches, makes the better ſort of People indeed nauſeate it, and all to de<g ref="char:EOLhyphen"/>ſpiſe
+<pb facs="tcp:102169:5"/> it: Not to ſay that the Beauty of our Ser<g ref="char:EOLhyphen"/>vice ſuffers extreamly by it. But <hi>Pſalms,</hi> and <hi>Hymns,</hi> to the Great Creator, Redeemer, and Sanctifier of Mankind, as they were the moſt ſig<g ref="char:EOLhyphen"/>nal part of the Primitive Liturgies, and as they will continue to all Eternity the conſtant Employ<g ref="char:EOLhyphen"/>ment of the Bleſſed Angels and Saints above; ſo now that there is an Emendation both of the <hi>Pſalms</hi> and <hi>Singing,</hi> the Prejudices conceiv'd a<g ref="char:EOLhyphen"/>gainſt them, may ſoon, I hope, be turn'd into the higheſt Love and Eſteem of both: So that this I think wou'd be an Alteration made to the well-liking of all the Members of our Communion.</p>
+            <p>I know there are thoſe who think the Com<g ref="char:EOLhyphen"/>mon People ſo fond of the <hi>Old Pſalms,</hi> that they wou'd not endure an Innovation therein: But in all the Experience I have had in this Matter, in a Miniſtry amongſt them for Fifteen Years, I never found that Perſon which ſpoke the leaſt liking to <hi>Hopkins,</hi> and <hi>Sternhold</hi>'s Pſalms; nor any one of the Country-People who had that Value for them as to get one of them by Heart: But as to a new Verſion of our <hi>Singing Pſalms</hi> done with a Spirit, and Life, that comes up in ſome mea<g ref="char:EOLhyphen"/>ſure to the Original; now that ſuch an one is made, all People, I am perſwaded, would be apt of themſelves to learn them, and the Clergy can now with a good Countenance ſtrike in, and encourage them thereunto; not only that every Perſon might be able to bear a part in that Ser<g ref="char:EOLhyphen"/>vice, but as an Excellent Furniture for Devotion, both in Solitude, and on many other Occaſions.</p>
+            <p>And this indeed deſerves a particular Conſi<g ref="char:EOLhyphen"/>deration,
+<pb facs="tcp:102169:6"/> that whereas through the Difficulty of learning Proſe, it is a very hard Matter to make the meaner ſort of People to get any Prayers by heart; yet through the Facility of getting Verſe, and the great liking they have to it, they may be eaſily wrought upon to get many of the <hi>Singing Pſalms</hi> without Book; ſo that they might hereby be provided (if the Choice were well made) of apt and proper Devotions, ſuffi<g ref="char:EOLhyphen"/>cient in ſome meaſure to ſupply their want of other Prayers. However they wou'd have where<g ref="char:EOLhyphen"/>withal to lift up their hearts to Heaven upon Contemplation of God's Works, when they walk in the Fields, and view the Wonders of his Works; of which ſort of Devotions <hi>David</hi>'s Pſalms are ſo noble a Store-houſe, and to which he does ſo often call upon all Men: Not to ſay that the getting of much of this Sacred Poeſy by heart may work in them a diſreliſh for obſcene, and profane Songs, and <hi>Ballads,</hi> whereby the Minds of all ſorts of People are ſo infinitely cor<g ref="char:EOLhyphen"/>rupted at this day.</p>
+            <p>In ſhort, ſince there is no part of Devotion more pleaſing than <hi>Pſalmody,</hi> and the Neglect of Family-Worſhip amongſt the Common Peo<g ref="char:EOLhyphen"/>ple; at leaſt, may be dated from the time it has grown into neglect, I cannot therefore but pro<g ref="char:EOLhyphen"/>poſe it as fit to be reviv'd: And becauſe it does ſo wonderfully compoſe the Spirits, and prepare the Mind for Divine Heat, I cannot but think it proper to begin with it in the Daily Returns of Family-Worſhip.</p>
+            <div type="Psalms">
+               <pb facs="tcp:102169:6"/>
+               <head>PSALMS.</head>
+               <div n="100" type="Psalm">
+                  <head>PSALM <hi>C.</hi> Proper to be Sung at Home, or at Church, before the beginning of Divine Service.</head>
+                  <opener>
+                     <hi>Pſalm</hi> 100. Proper Tune.</opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> With one conſent let all the Earth, to God their chearful voices raiſe;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Glad homage pay with awful mirth, and ſing before him Songs of Praiſe.</l>
+                  </lg>
+                  <lg>
+                     <l>Convinc'd that he is God alone,</l>
+                     <l>From whom both we and all proceed;</l>
+                     <l>We whom he chuſes for his own,</l>
+                     <l>The Flock that he vouchſafes to ſeed.</l>
+                  </lg>
+                  <lg>
+                     <l>O enter then his Temple-Gate,</l>
+                     <l>Thence to his Courts devoutly preſs,</l>
+                     <l>And ſtill your grateful Hymns repeat,</l>
+                     <l>And ſtill his Name with Praiſes bleſs.</l>
+                  </lg>
+                  <lg>
+                     <l>For he's the Lord ſupremely good,</l>
+                     <l>His Mercy is for ever ſure,</l>
+                     <l>His Truth which always firmly ſtood,</l>
+                     <l>To endleſs Ages ſhall endure.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:102169:7"/>
+                     <l>To Father, Son, and Holy Ghoſt;</l>
+                     <l>The God whom Earth and Heaven adore,</l>
+                     <l>Be Glory, as it was of Old,</l>
+                     <l>Is now, and ſhall be evermore.</l>
+                  </lg>
+               </div>
+               <div n="95" type="Psalm">
+                  <head>PSALM <hi>XCV.</hi> To be Sung as the <hi>100</hi> Pſalm.</head>
+                  <opener>Proper to be Sung as the former.</opener>
+                  <lg>
+                     <l>O Come, loud Anthems let us ſing,</l>
+                     <l>Loud Thanks to our Almighty King:</l>
+                     <l>For we our Voices high ſhould raiſe,</l>
+                     <l>When our Salvation's Rock we praiſe.</l>
+                  </lg>
+                  <lg>
+                     <l>Into his Preſence let us haſte,</l>
+                     <l>To thank him for his Favours paſt;</l>
+                     <l>To him Addreſs in joyful Songs,</l>
+                     <l>The praiſe that to his Name belongs.</l>
+                  </lg>
+                  <lg>
+                     <l>For God the Lord enthron'd in State,</l>
+                     <l>Is with unrival'd Glory Great.</l>
+                     <l>A King ſuperior far to all,</l>
+                     <l>Whom by his Title, God we call.</l>
+                  </lg>
+                  <lg>
+                     <l>O let us to his Courts repair,</l>
+                     <l>And bow with Adoration there,</l>
+                     <l>Down on our Knees devoutly all,</l>
+                     <l>Before the Lord our Maker fall.</l>
+                  </lg>
+                  <lg>
+                     <l>To Father, <hi>&amp;c.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="2" type="Psalm">
+                  <pb facs="tcp:102169:7"/>
+                  <head>PSALM <hi>II.</hi> Proper to be Sung in a Family, or at Church after the Second Leſſon.</head>
+                  <opener>Pſalm <hi>2. Rochel Tune.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> WIth reſtleſs and ungovern'd Rage, why do the Heathen ſtorm?</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Why in ſuch raſh Attempts engage as they can ne'er perform?</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> The Great in Council and in Might, their various Forces bring;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Againſt the Lord they all unite, and his anointed King.</l>
+                  </lg>
+                  <lg>
+                     <l>Muſt we ſubmit to their Commands,</l>
+                     <l>Preſumptuouſly they ſay?</l>
+                     <l>No, let us break their ſlaviſh Bands,</l>
+                     <l>And caſt their Chains away.</l>
+                     <l>But God who ſits enthron'd on high,</l>
+                     <l>And ſees how they combine;</l>
+                     <l>Does their conſpiring Strength defie,</l>
+                     <l>And mocks their vain Deſign.</l>
+                  </lg>
+               </div>
+               <div n="11" type="Psalm">
+                  <pb facs="tcp:102169:8"/>
+                  <head>PSALM <hi>XI.</hi> To be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ung between the Firſt and Second Service.</head>
+                  <opener>Pſalm <hi>11. St. David's Tune.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> THe Lord hath both a Temple here, and Righteous Throne above;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Whence he ſurveys the Sons of Men, and how their Counſels move.</l>
+                  </lg>
+                  <lg>
+                     <l>If God the Righteous, whom he loves,</l>
+                     <l>for tryal does correct;</l>
+                     <l>What muſt the Sons of Violence,</l>
+                     <l>Whom he abhors, expect?</l>
+                  </lg>
+                  <lg>
+                     <l>Snares, Fire, and Brimſtone on their Heads</l>
+                     <l>Shall in one Tempeſt ſhow'r,</l>
+                     <l>This dreadful mixture his Revenge</l>
+                     <l>Into their Cup ſhall pow'r.</l>
+                  </lg>
+                  <lg>
+                     <l>The Righteous Lord, will Righteous deeds</l>
+                     <l>With ſignal Favour grace;</l>
+                     <l>And to the upright Man diſcloſe</l>
+                     <l>The Brightneſs of his Face.</l>
+                  </lg>
+               </div>
+               <div n="119" type="Psalm">
+                  <pb facs="tcp:102169:8"/>
+                  <head>PSALM <hi>CXIX.</hi> To be Sung before the Sermon.</head>
+                  <opener>Pſalm <hi>119. St. Mary's Tune.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> INſtruct me in thy Statutes, Lord, thy righteous Paths diſplay;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> And I from them through all my Life will never go aſtray.</l>
+                  </lg>
+                  <lg>
+                     <l>If thou true Wiſdom from above</l>
+                     <l>Wilt graciouſly impart,</l>
+                     <l>To keep thy perfect Laws, I will</l>
+                     <l>Devote my zealous Heart.</l>
+                  </lg>
+                  <lg>
+                     <l>In Truth, ſubſtantial Peace have they</l>
+                     <l>Who truly love thy Law,</l>
+                     <l>No ſmiling Miſchief them can tempt,</l>
+                     <l>Nor frowning Danger aw.</l>
+                  </lg>
+                  <lg>
+                     <l>Directed therefore by thy Word</l>
+                     <l>Let all my Footſteps be;</l>
+                     <l>Nor Wickedneſs of any kind</l>
+                     <l>Dominion have o're me.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:102169:9"/>
+                     <l>On me devoted to thy Fear,</l>
+                     <l>Lord make thy Face to ſhine,</l>
+                     <l>Thy Statutes both to know, and keep,</l>
+                     <l>My Heart with Zeal incline.</l>
+                  </lg>
+               </div>
+               <div n="119" type="Psalm">
+                  <head>PSALM <hi>CXIX.</hi> To be Sung after Sermon.</head>
+                  <opener>Pſalm <hi>119. London New Tune.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> SAfe in my Heart, and cloſely hid thy Word, my Treaſure lies,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> To ſuccour me with timely Aid when ſinful Thoughts ariſe.</l>
+                  </lg>
+                  <lg>
+                     <l>Secur'd by that my grateful Soul</l>
+                     <l>Shall ever bleſs thy Name;</l>
+                     <l>O teach me then by thy juſt Laws</l>
+                     <l>My future Life to frame.</l>
+                  </lg>
+                  <lg>
+                     <l>My Lips, unlock'd with pious Zeal,</l>
+                     <l>To others have declar'd,</l>
+                     <l>How well the Judgments of thy Mouth</l>
+                     <l>Deſerve our beſt regard.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:102169:9"/>
+                     <l>Whilſt in the way of thy Commands</l>
+                     <l>More ſolid Joy is found,</l>
+                     <l>Than had I been with vaſt increaſe,</l>
+                     <l>Of envy'd Riches crown'd.</l>
+                  </lg>
+                  <lg>
+                     <l>Therefore thy Juſt and Righteous Laws,</l>
+                     <l>Shall always fill my Mind;</l>
+                     <l>And thoſe ſound Rules which thou preſcrib'ſt</l>
+                     <l>all due Reſpect ſhall find.</l>
+                  </lg>
+                  <lg>
+                     <l>To keep thy Statutes undefac'd,</l>
+                     <l>Shall be my conſtant joy,</l>
+                     <l>The ſtrict remembrance of thy Word</l>
+                     <l>Shall all my Thoughts employ.</l>
+                  </lg>
+               </div>
+               <div n="24" type="Psalm">
+                  <head>PSALM <hi>XXIV.</hi> To be Sung before Evening Service begins.</head>
+                  <opener>Pſalm <hi>24. St. James's Tune.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> THis ſpacious Earth is all the Lord's, the Earth her fulneſs is;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> The World, and they that dwell therein by ſovereign right are his.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:102169:10"/>
+                     <l>He fram'd, and fix'd it on the Seas,</l>
+                     <l>And his Almighty Hand,</l>
+                     <l>Upon inconſtant Floods has made</l>
+                     <l>The ſtable Fabrick ſtand.</l>
+                  </lg>
+                  <lg>
+                     <l>But for himſelf this Lord of all,</l>
+                     <l>One choſen Seat deſign'd;</l>
+                     <l>O who ſhall to the Sacred Hill,</l>
+                     <l>Deſir'd Admittance find?</l>
+                  </lg>
+                  <lg>
+                     <l>The Man whoſe Hands and Heart are pure,</l>
+                     <l>Whoſe Thoughts from Pride are free;</l>
+                     <l>Who honeſt Poverty prefers,</l>
+                     <l>To gainful Perjury.</l>
+                  </lg>
+                  <lg>
+                     <l>This, this is he, on whom the Lord,</l>
+                     <l>Shall ſhow'r his Bleſſings down;</l>
+                     <l>Whom God his Saviour ſhall vouchſafe</l>
+                     <l>With Righteouſneſs to crown.</l>
+                  </lg>
+                  <lg>
+                     <l>Such is the Race of Saints, by whom</l>
+                     <l>The Sacred Courts are trod;</l>
+                     <l>And ſuch the Proſelytes that ſeek</l>
+                     <l>The Face of <hi>Jacob</hi>'s God.</l>
+                  </lg>
+               </div>
+               <div n="24" type="Psalm">
+                  <pb facs="tcp:102169:10"/>
+                  <head>PSALM <hi>XXIV.</hi> To be Sung after the Second Leſſon, Evening Service. To be Sung as the foregoing part.</head>
+                  <lg>
+                     <l>ERect your Heads, Eternal Gates,</l>
+                     <l>Unfold to entertain</l>
+                     <l>The King of Glory; ſee he comes</l>
+                     <l>with his Celeſtial Train.</l>
+                  </lg>
+                  <lg>
+                     <l>Who is this King of Glory? Who?</l>
+                     <l>The Lord for Strength renown'd:</l>
+                     <l>In Battle mighty, o're his Foes,</l>
+                     <l>Eternal Victor crown'd.</l>
+                  </lg>
+                  <lg>
+                     <l>Erect your Heads, ye Gates, unfold</l>
+                     <l>In State to entertain</l>
+                     <l>The King of Glory; for he comes</l>
+                     <l>With all his ſhining Train.</l>
+                  </lg>
+                  <lg>
+                     <l>Who is this King of Glory? Who?</l>
+                     <l>The Lord of Hoſts renown'd:</l>
+                     <l>Of Glory he alone is King,</l>
+                     <l>Who is with Glory crown'd.</l>
+                  </lg>
+                  <lg>
+                     <l>To Father, <hi>&amp;c.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="84" type="Psalm">
+                  <pb facs="tcp:102169:11"/>
+                  <head>PSALM <hi>LXXXIV.</hi> Proper to be Sung in a Family on a Sunday Evening, or in Church after Evening Service is over.</head>
+                  <opener>Pſalm <hi>84. Mancheſter Tune.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> O Lord of Hoſts my King, O God, how highly bleſt are they:</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Who in thy Temple always dwell, and there thy Praiſe diſplay.</l>
+                  </lg>
+                  <lg>
+                     <l>For in thy Courts one ſingle Day,</l>
+                     <l>'Tis better to attend,</l>
+                     <l>Than, Lord, in any place beſides,</l>
+                     <l>A Thouſand Days to ſpend.</l>
+                  </lg>
+                  <lg>
+                     <l>For God who is our Sun, and Shield,</l>
+                     <l>Will Grace and Glory give:</l>
+                     <l>And no good thing will he with-hold,</l>
+                     <l>From them that juſtly live.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:102169:11"/>
+                     <l>O thou whom Heavenly Hoſts obey,</l>
+                     <l>How highly bleſt is he,</l>
+                     <l>Whoſe Hope and Truſt ſecurely plac'd,</l>
+                     <l>Are ſtill repos'd on thee!</l>
+                  </lg>
+                  <lg>
+                     <l>To Father, Son, and Holy Ghoſt,</l>
+                     <l>The God whom we adore,</l>
+                     <l>Be Glory, as it was, is now,</l>
+                     <l>And ſhall be evermore.</l>
+                  </lg>
+               </div>
+               <div n="117" type="Psalm">
+                  <head>PSALM <hi>CXVII.</hi> Proper to be Sung in a Family before Morning Prayer.</head>
+                  <opener>Pſalm <hi>117. Exeter Tune.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> WIth cheerful Notes let all the Earth, to Heav'n their Voices raiſe,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Let all inſpir'd with godly Mirth, ſing ſolemn Hymns of Praiſe.</l>
+                  </lg>
+                  <lg>
+                     <l>God's tender Mercy knows no bound,</l>
+                     <l>His Truth ſhall ne'er decay;</l>
+                     <l>Then let the willing Nations round,</l>
+                     <l>This grateful Tribute pay.</l>
+                     <l>To Father, Son, <hi>&amp;c.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="139" type="Psalm">
+                  <pb facs="tcp:102169:12"/>
+                  <head>PSALM <hi>CXXXIX.</hi> To be Sung as the <hi>100</hi> Pſalm. Proper alſo to be Sung in a Family at Morning Prayer.</head>
+                  <lg>
+                     <l>THou Lord by ſtricteſt ſearch haſt known,</l>
+                     <l>My riſing up, and lying down;</l>
+                     <l>My ſecret Thoughts are known to thee,</l>
+                     <l>Known long before conceiv'd by me.</l>
+                  </lg>
+                  <lg>
+                     <l>Thine Eye my Bed, and Paths ſurveys;</l>
+                     <l>My publick Haunts, and private Ways.</l>
+                     <l>Thou know'ſt what 'tis my Lips would vent,</l>
+                     <l>My yet unutter'd words intent.</l>
+                  </lg>
+                  <lg>
+                     <l>The veil of Night is no diſguiſe,</l>
+                     <l>No ſcreen from thine All-ſeeing Eyes.</l>
+                     <l>Through midnight ſhades thou find'ſt thy way,</l>
+                     <l>As in the blazing Noon of Day.</l>
+                  </lg>
+                  <lg>
+                     <l>Thou know'ſt the Secrets of my Heart;</l>
+                     <l>If miſchief lurk in any part,</l>
+                     <l>Correct me where I go aſtray,</l>
+                     <l>And guide me in thy perfect way.</l>
+                  </lg>
+                  <lg>
+                     <l>To Father, Son, <hi>&amp;c.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="8" type="Psalm">
+                  <pb facs="tcp:102169:12"/>
+                  <head>PSALM <hi>VIII.</hi> Proper to be Sung in a Family at Evening Prayer.</head>
+                  <opener>Pſalm <hi>8. Wincheſter Tune.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> O Thou to whom all Creatures bow, within this earthly Frame;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Thro' all the World how great art Thou; how glorious is thy Name.</l>
+                  </lg>
+                  <lg>
+                     <l>When Heaven the Beauteous Work on high,</l>
+                     <l>Employs my wandring ſight,</l>
+                     <l>The Moon that nightly guilds the Sky,</l>
+                     <l>With Stars of feebler Light.</l>
+                  </lg>
+                  <lg>
+                     <l>What's Man, ſaid I, that Lord thou lov'ſt</l>
+                     <l>To keep him in thy Mind!</l>
+                     <l>Or what his Off-ſpring that thou prov'ſt,</l>
+                     <l>To them ſo wondrous kind!</l>
+                  </lg>
+                  <lg>
+                     <l>Him next in Pow'r thou didſt create,</l>
+                     <l>To thy Celeſtial Train.</l>
+                     <l>Ordain'd with Dignity and State,</l>
+                     <l>O're all thy Works to Reign.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:102169:13"/>
+                     <l>They joyntly own his potent ſway,</l>
+                     <l>The Beaſts that Prey or Graze,</l>
+                     <l>The Birds that wing their Airy way,</l>
+                     <l>The Fiſh that cuts the Seas.</l>
+                  </lg>
+                  <lg>
+                     <l>O thou to whom all Creatures bow,</l>
+                     <l>Within this Earthly Frame,</l>
+                     <l>Thro' all the World how great art thou,</l>
+                     <l>How Glorious is thy Name!</l>
+                  </lg>
+                  <lg>
+                     <l>To Father, <hi>&amp;c.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="148" type="Psalm">
+                  <head>
+                     <hi>PSALM</hi> CXLVIII.</head>
+                  <p>
+                     <hi>Pſalm</hi> 148. Proper Tune.</p>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> YE boundleſs Realms of Joy, ex╌alt your Maker's Fame;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> his praiſe your ſong employ, above the ſtarry frame; your voices raiſe,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> ye Che╌ru╌bims, and Se╌ra╌phims, to ſing his Praiſe.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:102169:13"/>
+                     <l>Let all of Royal Birth,</l>
+                     <l>With thoſe of humbler Frame,</l>
+                     <l>And Judges of the Earth,</l>
+                     <l>His matchleſs Praiſe proclaim.</l>
+                     <l>In this Deſign</l>
+                     <l>Let Youths and Maids,</l>
+                     <l>And Hoary Heads</l>
+                     <l>With Children joyn.</l>
+                  </lg>
+                  <lg>
+                     <l>United Zeal be ſhown,</l>
+                     <l>His wondrous Fame to raiſe,</l>
+                     <l>Whoſe Glorious Name alone,</l>
+                     <l>Deſerves our endleſs praiſe.</l>
+                     <l>Earths utmoſt ends</l>
+                     <l>His Power obey:</l>
+                     <l>His Glorious ſway</l>
+                     <l>The Sky tranſcends.</l>
+                  </lg>
+                  <lg>
+                     <l>His choſen Saints to Grace,</l>
+                     <l>He raiſes them on high;</l>
+                     <l>And favours <hi>Iſrael</hi>'s Race,</l>
+                     <l>Who ſtill to him are nigh:</l>
+                     <l>O therefore raiſe</l>
+                     <l>Your grateful Voice,</l>
+                     <l>And ſtill rejoyce,</l>
+                     <l>The Lord to praiſe.</l>
+                  </lg>
+               </div>
+               <div n="103" type="Psalm">
+                  <pb facs="tcp:102169:14"/>
+                  <head>PSALM <hi>CIII.</hi> To be Sung as the <hi>100</hi> Pſalm.</head>
+                  <lg>
+                     <l>THe Lord, the Univerſal King,</l>
+                     <l>In Heaven has fix'd his lofty Throne:</l>
+                     <l>To him the Angels, Praiſes ſing,</l>
+                     <l>In whoſe great Strength his Pow'r is ſhown.</l>
+                  </lg>
+                  <lg>
+                     <l>Ye that his juſt Commands obey,</l>
+                     <l>And hear, and do his Sacred Will;</l>
+                     <l>The Hoſts of his, this Tribute pay,</l>
+                     <l>Who ſtill what he ordains, fulfill.</l>
+                  </lg>
+                  <lg>
+                     <l>Let every Creature jointly bleſs</l>
+                     <l>The mighty Lord: And thou, my Heart,</l>
+                     <l>With grateful Joy thy Thanks expreſs;</l>
+                     <l>And in this Conſort bear thy part.</l>
+                  </lg>
+                  <lg>
+                     <l>Yea Lord to celebrate thy Fame,</l>
+                     <l>My grateful Voice to Heaven I'll raiſe;</l>
+                     <l>And Nations, ſtrangers to thy Name,</l>
+                     <l>Shall thus be taught to ſing thy Praiſe.</l>
+                  </lg>
+                  <lg>
+                     <l>For God abounds with tender Love,</l>
+                     <l>And unexampl'd Acts of Grace,</l>
+                     <l>His waken'd Wrath does ſlowly move,</l>
+                     <l>His willing Mercy flows apace.</l>
+                  </lg>
+                  <lg>
+                     <l>God will not always harſhly chide,</l>
+                     <l>But with his anger quickly part;</l>
+                     <l>And loves his Puniſhments to guide</l>
+                     <l>More by his Love than our Deſert.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:102169:14"/>
+               <p>
+                  <hi>Secondly,</hi> Next after the <hi>Pſalm,</hi> may ſucceed a Courſe of Reading, And this both Ordinary, and Extraordinary; <hi>Ordinarily,</hi> and at every time the Family are call'd together to Prayers, it were well if a <hi>Chapter</hi> were read, either accor<g ref="char:EOLhyphen"/>ding to the order of our <hi>Kalendar,</hi> by which means the moſt material parts of Holy Scrip<g ref="char:EOLhyphen"/>ture might be read over, the Old Teſtament once, the New thrice a-year. Or if time will not ſerve to have four Chapters read every day, then the New Teſtament may be read over in order. And it would tend ſingularly to the im<g ref="char:EOLhyphen"/>provement of the Youth of the Family, both Children and Servants, to have them read the Chapters by turns.</p>
+               <p>
+                  <hi>Extraordinarily,</hi> I would recommend it to all Families, that on Sunday-Evenings, the Maſter or Miſtreſs having call'd together their whole Family, would beſides the Chapter, cauſe to be read ſome Diſcourſe out of ſome Practical Trea<g ref="char:EOLhyphen"/>tiſe: And I ſhall here recommend what Books they may read with profit, and in what order.</p>
+               <p>And in the firſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ace, ſince in the Doctrine of our Baptiſmal Covenant is contain'd all that is eſſentially neceſſary to Salvation, and nothing is to be accounted ſuch, which is no part, nor Article of the Covenant of Grace; and ſince according as we have perform'd, or not per<g ref="char:EOLhyphen"/>form'd our part of this Covenant, we ſhall be juſtify'd, or condemn'd at the laſt day; I am therefore perſuaded that the Knowledge of the Nature, Terms, and Conditions of this Covenant,
+<pb facs="tcp:102169:15"/> by whoſe Mediation we obtained ſuch Gracious Terms of Salvation, and what vaſt Obligations do lie upon us to diſcharge the ſame; I am there<g ref="char:EOLhyphen"/>fore I ſay, perſuaded, that a through underſtan<g ref="char:EOLhyphen"/>ding of this Covenant, is fundamentally neceſ<g ref="char:EOLhyphen"/>ſary. And ſince the general Doctrine thereof gives a view of the whole Scheme of the Chri<g ref="char:EOLhyphen"/>ſtian Religion, I humbly conceive it ought to be the firſt thing taught, and underſtood in Chri<g ref="char:EOLhyphen"/>ſtianity; to which end give me leave to recom<g ref="char:EOLhyphen"/>mend every Sunday the reading of a Lecture in the foregoing <hi>Short Diſcourſe</hi> till it be gone through.</p>
+               <p>And then, after that, for a more particular In<g ref="char:EOLhyphen"/>formation in the ſeveral conditions of this Co<g ref="char:EOLhyphen"/>venant, I would be glad if ſome Treatiſe upon the Articles of our Chriſtian Faith, ſuch as <hi>Kettlewel's Practical Believer;</hi> and next to that, ſome Diſcourſe upon the ſeveral Chriſtian Du<g ref="char:EOLhyphen"/>ties, ſuch as the <hi>Whole Duty of Man,</hi> were by degrees read over. And then if next after this, a Diſcourſe upon the Sacrament, ſuch as <hi>Kettle<g ref="char:EOLhyphen"/>well</hi>'s <hi>Help and Exhortation to worthy Communica<g ref="char:EOLhyphen"/>ting,</hi> were alſo read, there, wou'd be nothing wanting to give all the Mem<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs of a Family, both a general and particular Knowledge in the whole Chriſtian Religion, and to guide them to Heaven. Theſe three laſt mentioned Books are what I would wiſh were in every Family, for the compleat Inſtruction of the Members of it. But in regard they may be thought too dear a Purchaſe, and too tedious for ſome; inſtead thereof, the <hi>Guide of a Chriſtian,</hi> and the <hi>Chri<g ref="char:EOLhyphen"/>ſtian Monitor</hi> may ſerve excellently for the pur<g ref="char:EOLhyphen"/>poſe
+<pb facs="tcp:102169:15"/> of Family Inſtructions. And if with the latter of theſe be bound up <hi>Wake</hi> upon <hi>Death,</hi> between theſe three there will be an admirable Rule provided for <hi>Holy Living and dying.</hi> And both together will make up an Excellent poor Man's Family-Book.</p>
+               <p>The purchaſe of the two latter will not ariſe to above one Shilling and ſix Pence, and of all to<g ref="char:EOLhyphen"/>gether, to not above eight Shillings. And it were happy for this Church, and the Souls of Men, if ſo many of our Common People did not lay out much more, as they generally do, to the loading of their Shelves, in Books of an <hi>Antinomian</hi> Spirit, ſuch as <hi>Bunyan</hi>'s Books, to the Poyſoning of many thouſand Perſons both in their Faith and Practice.</p>
+               <p>
+                  <hi>Thirdly,</hi> And now after the <hi>Pſalm</hi> and Chap<g ref="char:EOLhyphen"/>ter, and the other reading on Sundays; In the Cloſe it is proper that Prayer ſhould ſucceed, for which by this time we may ſuppoſe all the Members of the Family to be very well prepared, and to be put in a good frame of Spirit. And there are indeed great variety of excellent De<g ref="char:EOLhyphen"/>votions in the foregoing Books, eſpecially if to them there ſhall be added <hi>Patrick</hi>'s <hi>Devout Chri<g ref="char:EOLhyphen"/>ſtian.</hi> However to render this as generally uſeful as may be, for all the purpoſes of Fa<g ref="char:EOLhyphen"/>mily-Religion, I ſhall add a Prayer for the <hi>Mor<g ref="char:EOLhyphen"/>ning</hi> and <hi>Evening,</hi> made for the moſt part out of the words of our <hi>Liturgy,</hi> the beſt Treaſury of Devotions doubtleſs in the World, of any Hu<g ref="char:EOLhyphen"/>mane Compoſure; and particularly out of the words of our Catechiſm; the Praying over of
+<pb facs="tcp:102169:16"/> which will have theſe advantages in my Opinion, of all other Forms, that firſt the things thereby prayed for, will be the ſame we have Covenan<g ref="char:EOLhyphen"/>ted with God to perform: And ſecondly, every ſingle Expreſſion being pregnant of abundance of Matter, ſo as to be the Subject of Expoſitions; in every Petition, the Mind will be taken up with great variety of things, whereas in moſt other Compoſures, in much variety of Expreſſion there is but little Matter included. And by the by, this being the Nature of our Forms in the <hi>Liturgy,</hi> eſpecially of thoſe Supplications fol<g ref="char:EOLhyphen"/>lowing the ſeveral Commandments, the Injury which is done to our Church Service is intolera<g ref="char:EOLhyphen"/>rable, when it is hurry'd over, and read precipi<g ref="char:EOLhyphen"/>tately, ſo as the Worſhipper cannot have due ſpace to reflect upon the copious Matter he prays for under thoſe comprehenſive Expreſſions.</p>
+               <div type="prayers">
+                  <head>PRAYERS.</head>
+                  <div type="prayer">
+                     <q>
+                        <p>O Moſt bleſſed Lord God, whoſe glorious Name is exalted above all Bleſſing and Praiſes, yet it is our Duty, and our Happineſs, to Glorify thee: And, to this end, we a ſmall handful of thy depending Creatures are here met, to join our Hearts and Voices, in the Cele<g ref="char:EOLhyphen"/>bration of thy Praiſes. And therefore with An<g ref="char:EOLhyphen"/>gels and Archangels, and all the glorious Com<g ref="char:EOLhyphen"/>pany of Heaven, we laud and magnify thy holy Name, for all thy Mercies vouchſafed unto us, and to all Mankind. Our Creation was an ad<g ref="char:EOLhyphen"/>mirable Inſtance of thy Goodneſs, communica<g ref="char:EOLhyphen"/>ting Life and Being, and a competent meaſure of Happineſs to all thy Creatures. And as the
+<pb facs="tcp:102169:16"/> Morning-Stars, or Angels, did thereupon ſing for Joy; ſo do we this Day celebrate the Glorious Power then appearing. But the Redemption of us by the Mediation of thy Son Jeſus Chriſt, reconciling us to thee, when we had baſely re<g ref="char:EOLhyphen"/>volted from thee, and took part with thine E<g ref="char:EOLhyphen"/>nemy, was an aſtoniſhing Work of Mercy, which the Angels themſelves cannot fathom, but deſire to look into. O how did Mercy and Truth here meet together! How did Righte<g ref="char:EOLhyphen"/>ouſneſs and Peace here kiſs each other! We are in ſome meaſure ſenſible of it, and we do moſt devoutly adore thy Goodneſs, that thou haſt called us into the Family of thy Church, to partake of the Benefits of ſuch Redemption.</p>
+                        <p>And now, O God, as at our Admiſſion into this holy Society, we did Liſt our ſelves under Chriſt's Banner, manfully to Fight againſt the World, the Fleſh, and the Devil; ſo do thou enable us to Renounce the Devil, and all his Works, the Pomps and Vanity of this wicked World, and all the ſinful Luſts of the Fleſh.</p>
+                        <p>As we have been Baptiz'd into the Belief and Profeſſion of thee the only true God, Father, Son, and Holy Ghoſt; we beſeech thee that thou would'ſt keep us ſtedfaſt in this Faith, and that we may ever continue to Believe in God the Father, who hath made us, and all the World; in God the Son, who hath Redeem'd us, and all Mankind; and in God the Holy Ghoſt, who hath Sancti<g ref="char:EOLhyphen"/>fied us, and all the Elect People of God.</p>
+                        <p>And enable us, as to Believe in thee, ſo to
+<pb facs="tcp:102169:17"/> Obey thy holy Will and Commandments, and to walk in the ſame all the Days of our Life. Particularly, enable us to Love thee with all our Heart, with all our Mind, with all our Soul, and with all our Strength; to Worſhip thee, to give thee Thanks, to put our whole Truſt in thee, to Call upon thee, to Honour thy holy Name, and thy Word, and to Serve thee truly all the Days of our Life. Enable us alſo Conſcientiouſly to diſ<g ref="char:EOLhyphen"/>charge our Duties towards our Neighbour, to love him as our ſelves; and to do unto all Men, as we would they ſhould do unto us: To Love, Honour, and Succour our Re<g ref="char:EOLhyphen"/>lations; to Honour and Obey the King, and all that are put in Authority under Him; to Submit our ſelves to all our Governors, Teachers, Spiritual Paſtors, and Maſters: To or<g ref="char:EOLhyphen"/>der our ſelves Lowly and Reverently to all our Betters; to hurt no Body by Word or Deed; to be true and juſt in all our Dealings; to bear no Malice nor Hatred in our Hearts; to keep our Hands from Picking and Stealing, and our Tongues from Evil-ſpeaking, Lying, and Slan<g ref="char:EOLhyphen"/>dering; to keep our Bodies in Temperance, So<g ref="char:EOLhyphen"/>berneſs, and Chaſtity; not to covet nor deſire other Mens Goods, but to learn and labour truly to get our own Living; and to do our Duty in that ſtate of Life, unto which it ſhall pleaſe our God at any time to diſpoſe of us.</p>
+                        <p>We know, O God, that we are not able to do theſe Things of our ſelves, nor to walk in thy Commandments, and to ſerve thee, without thy ſpecial Grace: And therefore we deſire of
+<pb facs="tcp:102169:17"/> thee, O Lord God, our heavenly Father, who art the Giver of all Goodneſs, to ſend thy Grace unto us, and to all People; that we may Wor<g ref="char:EOLhyphen"/>ſhip thee, Serve thee, and Obey thee, as we ought to do. And we pray unto thee, that thou wilt ſend us all Things that be needful, both for our Souls and Bodies; and that thou wilt be mer<g ref="char:EOLhyphen"/>ciful unto us, and forgive us our Sins; und that it will pleaſe thee to ſave and defend us in all Dangers, Ghoſtly and Bodily; and that thou wilt keep us from all Sin and Wickedneſs, and from our Ghoſtly Enemy, and from ever<g ref="char:EOLhyphen"/>laſting Death. And this we truſt thou wilt do of thy Mercy and Goodneſs, through Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord.</p>
+                        <p>Neither pray we for our ſelves alone, but for all States and Conditions of Men amongſt us. And, O merciful God, who hath made all Men, and hateſt nothing that thou haſt made, nor would the Death of a Sinner, but rather that he ſhould be Converted and Live, have Mer<g ref="char:EOLhyphen"/>cy upon all <hi>Jews, Turks, Infidels,</hi> and <hi>Hereticks;</hi> and take from them all Ignorance, and Hard<g ref="char:EOLhyphen"/>neſs of Heart, and Contempt of thy Word and Commandments: And ſo fetch them home, bleſ<g ref="char:EOLhyphen"/>ſed Lord, to thy Flock, that they may be ſaved amongſt the Remnant of the true <hi>Iſraelites;</hi> and he made one Fold under one Shepherd, Jeſus Chriſt our Lord. More eſpecially, we beſeech thee, to receive our Supplications and Prayers, which we offer before thee, for all Eſtates of Men in thy Holy Church; that every Member of the ſame, in his Vocation and Miniſtry, may Truly and Godly ſerve thee. Amongſt whom,
+<pb facs="tcp:102169:18"/> principally we beſeech thee, to ſave and defend all Chriſtian Kings, Princes, and Governors, and eſpecially thy Servant <hi>William</hi> our King; that under Him we may be godly and quietly Governed. And grant unto his whole Coun<g ref="char:EOLhyphen"/>cil, and to all that are put in Authority un<g ref="char:EOLhyphen"/>der Him, that they may truly and indiffe<g ref="char:EOLhyphen"/>rently miniſter Juſtice, to the Puniſhment of Wickedneſs and Vice, and the Maintenance of thy true Religion and Vertue. And we moſt humbly beſeech thee, of thy Goodneſs, O Lord, to comfort and ſuccour them, who in this tranſitory Life, are in Trouble, Sor<g ref="char:EOLhyphen"/>row, Need, Sickneſs, or any other Adver<g ref="char:EOLhyphen"/>ſity. More eſpecially we beſeech thee Graci<g ref="char:EOLhyphen"/>ouſly to behold us of this F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mily.</p>
+                        <p>And as thou haſt ſafely brought us to the beginning of this Day,<note place="margin">This to be ad<g ref="char:EOLhyphen"/>ded in the Morning.</note> ſo defend us in the ſame by thy mighty Power, and grant that this Day we fall into no Sin, nei<g ref="char:EOLhyphen"/>ther run into any kind of Dangers; but that all our Doings may be order'd by thy Gover<g ref="char:EOLhyphen"/>nance, to do always that is righteous in thy thy Sight, through Jeſus Chriſt our Lord.</p>
+                        <p>And enlighten our Darkneſs, we beſeech thee, O Lord,<note place="margin">This to cloſe up Evening Prayer.</note> and by thy great Mercy defend us from all Perils and Dangers of this Night, for the Love of thy only Son Jeſus Chriſt our Lord. In whoſe moſt bleſ<g ref="char:EOLhyphen"/>ſed Name and Words, we conclude our im<g ref="char:EOLhyphen"/>perfect Prayers, ſaying, <hi>Our Father,</hi> &amp;c.</p>
+                     </q>
+                  </div>
+                  <div type="prayer">
+                     <pb facs="tcp:102169:18"/>
+                     <head>A Morning Prayer for a Family.</head>
+                     <p>
+                        <hi>O</hi> Bleſſed God be thou acknowledged, Praiſed, and Loved by us, and all the Child<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>en of Men; on whom thou poureſt continually thy Bene<g ref="char:EOLhyphen"/>fits. They are great and many; we know not the Summ, nor underſtand the Value of 'em. The An<g ref="char:EOLhyphen"/>gels themſelves admired thy Love to us in Chriſt Jeſus; and are become Miniſtring Spirits to them who are Heirs of Salvation. We enjoy the conti<g ref="char:EOLhyphen"/>nual Fruits of thy watchful Providence, by which we have been kept in Peace and Safety the laſt Night, and are raiſed this Morning in Health and Strength, both in Body and Mind, beholding all things belonging to us, juſt as we left 'em with thee when we went to ſleep.</p>
+                     <p>Accept, we moſt humbly beſeech thee, of this poor Tribute of Praiſe and Thanks; together with the hearty Oblation of our Souls and Bodies, which we here dedicate again to thy Service. Vouchſafe us the continual Aſſiſtance of the Grace of thy Holy Spirit, to enable us to make good thoſe Vows that are upon us, of <hi>Obediently keeping thy Holy Will and Commandments, and walking in the ſame all the days of our Life.</hi> Pardon, O Lord, all our Breaches of this Sacred Covenant. Deal not with us according to our Sins, neither re<g ref="char:EOLhyphen"/>ward us after our Iniquities; but in the multitude of thy Tender Mercies pity our Errors and Wan<g ref="char:EOLhyphen"/>drings, and he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>p us againſt our Infirmities.</p>
+                     <p>Give us leave this Day to put our ſelves into thy powerful Protection, and to depend on thee for thy merciful Guidance and Aſſiſtance, that we may
+<pb facs="tcp:102169:19"/> be more faithful to Thee in the diſcharge of our Duties, and never ſwerve from the Rules of So<g ref="char:EOLhyphen"/>briety and Righteouſneſs, Charity and Goodneſs. So ſhall we return with joyful Hearts to praiſe thee in the Evening; and teach thoſe who ſhall come after us to continue thy Praiſes in the next Generation. <hi>Amen.</hi> For thy Mercies ſake in Chriſt Jeſus, in whoſe words we preſent the earneſt deſires of our Souls and Hearts, both for our ſelves and our Bre<g ref="char:EOLhyphen"/>thren, ſaying,</p>
+                     <p>
+                        <hi>Our Father,</hi> &amp;c.</p>
+                  </div>
+                  <div type="prayer">
+                     <head>An Evening Prayer for a Family.</head>
+                     <p>IN an humble and thankful Senſe, O Lord of Hea<g ref="char:EOLhyphen"/>ven and Earth, of our entire dependence on Thee, and of the Duty we owe Thee, and the many Promi<g ref="char:EOLhyphen"/>ſes and Vows wherein we ſtand engaged to Thee, we fall down before Thee this Evening, and with all Reverence worſhip thy Divine Majeſty: Giving Thee the Glory that is due to thy Name, and acknowledg<g ref="char:EOLhyphen"/>ing thy multiplied Mercies to us, particularly thoſe of this Day; to the Concluſion of which thou haſt now ſafely brought us, with new Reſolutions in our Hearts to continue forever in thy Faith, and Fear, and Love, and Obedience.</p>
+                     <p>It is but juſt, and reaſonable, and we feel like<g ref="char:EOLhyphen"/>wiſe by daily Experience, that it is our Happineſs to keep thy Commandments, and to maintain chearful Thoughts of Thee, and an hearty Friendſhip with Thee, by complying in all things with thy Holy Will: O pardon our Folly, moſt Gracious God, in forſa<g ref="char:EOLhyphen"/>king at any time that Perfect Rule, to follow our own unruly Deſires. Pardon us, we beſeech Thee;
+<pb facs="tcp:102169:19"/> for we know not how to pardon our ſelves ſuch In<g ref="char:EOLhyphen"/>gratitude to Thee, and Cruelty to our ſelves. It is the Grief of our Hearts, that we have in the leaſt offended Thee, and our moſt earneſt, un<g ref="char:EOLhyphen"/>feigned Deſires to to be preſerved hereafter in an ex<g ref="char:EOLhyphen"/>act Conformity to the Rule in every thing: Yea, we wou'd delight to do thy Will, O God, and take ſuch a Pleaſure in all the Acts of Righteouſneſs, Mercy, Meekneſs, and Gentleneſs to our Neigh<g ref="char:EOLhyphen"/>bours; and in praiſing, and acknowledging Thee the God of all Grace, and in living in an humble ſenſe of thy Bounty, and our own <g ref="char:V">Ʋ</g>ndeſervings, and in a temperate, and thankful <g ref="char:V">Ʋ</g>ſe of all thy Bleſſings, that we may have the continual Feaſt of a good Conſcience, and the conſtant Comfort and Satisfaction of having Thee always for our Friend, and our Gracious Father in Chriſt Jeſus.</p>
+                     <p>O thou who art the Inſpirer of ſuch holy Coun<g ref="char:EOLhyphen"/>ſels, Deſires, and Purpoſes, keep them for ever in our Hearts, encourage, ſtrengthen, and increaſe them, that after the Refreſhment of a quiet Sleep this Night, we may feel them lively, and powerful in the Morning; and with renew'd Joy, we may ſtill devote our ſelves to thy faithful Service. O that our Friends, and all thy People in every Place, may partake of the ſame Mercies we deſire for our ſelves: And however we are ſevered one from ano<g ref="char:EOLhyphen"/>ther in this World, grant us an happy Meeting at the Day of our Lord: In whoſe Words we pray Thee to hear us.</p>
+                     <p>
+                        <hi>Our Father,</hi> &amp;c.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:102169:20"/>
+               <head>AN Office for YOUTH.</head>
+               <div type="Scriptural_passages">
+                  <head>Texts of Scripture proper for a Morn<g ref="char:EOLhyphen"/>ning Meditation.</head>
+                  <q>
+                     <bibl>
+                        <hi>Eph.</hi> 5.14.</bibl> AWake thou that ſleepeſt, and ariſe from the Dead, and Chriſt ſhall give thee Light.</q>
+                  <q>
+                     <bibl>
+                        <hi>Rom.</hi> 13. <hi>Ver.</hi> 11.</bibl> Knowing the time, that now it is high time to awake out of ſleep; for now is our ſalvation nearer than when we be<g ref="char:EOLhyphen"/>lieved.</q>
+                  <q>
+                     <bibl>
+                        <hi>Ver.</hi> 12.</bibl> The Night is far ſpent, the Day is at hand; let us therefore caſt off the Works of Darkneſs, and let us put on the Armour of Light.</q>
+                  <q>
+                     <bibl>
+                        <hi>Ver.</hi> 13.</bibl> Let us walk honeſtly as in the Day, and put on the Lord Jeſus Chriſt.</q>
+                  <q>
+                     <bibl>
+                        <hi>Matth.</hi> 5.16.</bibl> Let your Light ſo ſhine before Men, that they may ſee your good Works, and glorify your Father which is in Heaven.</q>
+                  <q>
+                     <bibl>
+                        <hi>Eccleſ.</hi> 2.13.</bibl> Wiſdom excelleth Folly, as far as Light excelleth Darkneſs.</q>
+                  <q>
+                     <pb facs="tcp:102169:20"/>I. <bibl>
+                        <hi>Pſal.</hi> 3.5.</bibl> I laid me down and ſlept, I awa<g ref="char:EOLhyphen"/>ked, for the Lord ſuſtained me.</q>
+                  <q>II. <bibl>
+                        <hi>Pſal.</hi> 90.14.</bibl> O ſatisfy me early with thy Mercy, that I may rejoice and be glad all my Days.</q>
+                  <q>III. <bibl>
+                        <hi>Pſal</hi> 59.16, 17.</bibl> I will ſing of thy Power, yea, I will ſing aloud of thy Mercy in the Morn<g ref="char:EOLhyphen"/>ing; for thou haſt been my Defence and Refuge in the day of my Trouble.</q>
+                  <q>IV. <bibl>
+                        <hi>Ver.</hi> 17.</bibl> Unto thee, O my Strength, will I ſing; for God is my Defence, and the God of my Mercy.</q>
+                  <q>V. <bibl>
+                        <hi>Pſal.</hi> 71.5.</bibl> Thou art my Hope, O Lord God; thou art my Truſt from my Youth.</q>
+                  <q>VI. <bibl>
+                        <hi>Ver.</hi> 6.</bibl> By thee have I been holden up from the Womb; thou art he that took me out of my Mothers Bowels; my Praiſes ſhall be con<g ref="char:EOLhyphen"/>tinually of thee.</q>
+                  <q>VII. <bibl>
+                        <hi>Pſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l.</hi> 148.12.</bibl> Young Men and Maidens, Old Men and Children;</q>
+                  <q>VIII. <bibl>
+                        <hi>Ver.</hi> 13.</bibl> Let them praiſe the Name of the Lord; for his Name alone is excellent, his Glory is above the Earth and Heaven.</q>
+                  <q>IX. <bibl>
+                        <hi>Pſal.</hi> 113.1.</bibl> Praiſe ye the Lord, praiſe him, O ye Servants of the Lord.</q>
+                  <q>X. <bibl>
+                        <hi>Ver.</hi> 2.</bibl> Bleſſed be the Name of the Lord, from this time forth and for evermore.</q>
+                  <q>XI. <bibl>
+                        <hi>Ver.</hi> 3.</bibl> From the riſing up of the Sun, un<g ref="char:EOLhyphen"/>to the going down of the ſame, the Lord's Name is to be praiſed.</q>
+                  <q>
+                     <pb facs="tcp:102169:21"/>XII. <bibl>
+                        <hi>Pſal.</hi> 119.124.</bibl> Deal with thy Servant according to thy Mercies, O teach me thy Statutes.</q>
+                  <q>XIII. <bibl>
+                        <hi>Ver.</hi> 125.</bibl> I am thy Servant, give me Underſtanding, that I may know thy Teſti<g ref="char:EOLhyphen"/>monies.</q>
+                  <q>XIV. <bibl>
+                        <hi>Pſal.</hi> 143.8.</bibl> Cauſe me to learn thy lo<g ref="char:EOLhyphen"/>ving kindneſs, for in thee do I truſt; cauſe me to know the way wherein I ſhould walk, for I lift up my Soul unto thee.</q>
+               </div>
+               <div type="prayer">
+                  <head>A Morning Prayer.</head>
+                  <p>
+                     <hi>O</hi> God the Father of Heaven, I render unto Thee all poſſible Praiſe and Thanksgiving, who haſt preſerved me ſafe from the Danger of the Night paſt. I do humbly beſeech thee, that thou wouldſt take me under the Protection of thy Good Providence this Day and for evermore. And as thou haſt diſpell'd the Darkneſs of the Night, and fill'd the World with the Light of the Sun, and haſt awaken'd me from Sleep; ſo do thou vouchſafe, O Lord, to expel the Darkneſs of Ignorance from my Mind, enlightning it with the Beams of thy moſt Holy Spirit, and with the Knowledge of thy beloved Son Jeſus Chriſt, our Saviour, that true Light which lighteth every Man that cometh into the World; that ſo declining from the Works of Darkneſs, and directing my Steps according to the Truth of thy moſt Holy Word, I may always walk as in open day, So<g ref="char:EOLhyphen"/>berly, Righteouſly, and Godly; ſubduing all Youth<g ref="char:EOLhyphen"/>ful Luſts, and avoiding all Evil Company; and at length may arrive to the Habitations of Light under the Conduct of the ſame thy Son; to whom with
+<pb facs="tcp:102169:21"/> thee, and the Holy Spirit, one God of moſt Ado<g ref="char:EOLhyphen"/>rable Majeſty, be all Honour and Glory, both now, and evermore. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="Scriptural_passages">
+                  <head>Scripture Texts for Evening Meditation.</head>
+                  <q>
+                     <bibl>
+                        <hi>John</hi> 11.9.</bibl> ARE there not twelve Hours in the Day? If any Man walk in the Day he ſtumbleth not, becauſe he ſeeth Light of of this World.</q>
+                  <q>
+                     <bibl>
+                        <hi>Ver.</hi> 10.</bibl> But if a Man walk in the Night he ſtumbleth, becauſe there is no Light in him.</q>
+                  <q>
+                     <bibl>
+                        <hi>John</hi> 3.19.</bibl> And this is the Condemnation that Light is come into the World, and Men love Darkneſs rather than Light, becauſe their Deeds were Evil.</q>
+                  <q>
+                     <bibl>
+                        <hi>John</hi> 1.9.</bibl> Now Jeſus Chriſt is that true Light which lighteth every Man that cometh into the World.</q>
+                  <q>
+                     <bibl>
+                        <hi>John</hi> 12.35.</bibl> Let us therefore walk whilſt we have Light, leſt Darkneſs come upon us; for he that walketh in Darkneſs knoweth not whi<g ref="char:EOLhyphen"/>ther he goeth.</q>
+                  <q>
+                     <bibl>1 <hi>John</hi> 2.9.</bibl> He that ſaith he is in the Light, and hateth his Brother, is in Darkneſs, even un<g ref="char:EOLhyphen"/>til now.</q>
+                  <q>
+                     <bibl>
+                        <hi>Ver.</hi> 10.</bibl> He that loveth his Brother abideth in the Light, and there is no occaſion of ſtumb<g ref="char:EOLhyphen"/>ling in him.</q>
+                  <q>
+                     <bibl>
+                        <hi>Pſa.</hi> 58.10.</bibl> If thou draw out thy Soul to the hungry, and ſatisfy the afflicted Soul; then ſhall
+<pb facs="tcp:102169:22"/> thy Light riſe in obſcurity, and thy Darkneſs ſhall be as the Noon-day.</q>
+                  <q>
+                     <bibl>
+                        <hi>Pſalm</hi> 92.1.</bibl> IT is a good thing to give thanks unto thee, O Lord; and to ſing Praiſes unto thy Name, O moſt High.</q>
+                  <q>
+                     <bibl>
+                        <hi>Ver.</hi> 2.</bibl> To ſhew forth thy Loving-kindneſs in the Morning, and thy Faithfulneſs every Night.</q>
+                  <q>
+                     <bibl>
+                        <hi>Pſal.</hi> 43.3.</bibl> O ſend out thy Light and thy Trut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, let them lead me, let them bring me unto thy holy Hill, and to thy Tabernacle.</q>
+                  <q>
+                     <bibl>
+                        <hi>Pſal.</hi> 119.105.</bibl> Thy Word is a Lamp unto my Feet, and a Light unto my Paths.</q>
+                  <q>
+                     <bibl>
+                        <hi>Pſal.</hi> 119 133.</bibl> Order my Steps in thy Word; and let not any Iniquity have dominion over me.</q>
+                  <q>
+                     <bibl>
+                        <hi>Pſal</hi> 36.9.</bibl> With thee is the Fountain of Life; in thy Light ſhall we ſee Light.</q>
+                  <q>
+                     <bibl>
+                        <hi>Pſal.</hi> 13.3.</bibl> Conſider and hear me, O Lord, my God, lighten mine Eyes that I ſleep not in Death.</q>
+                  <q>
+                     <bibl>
+                        <hi>Pſal.</hi> 4.8.</bibl> I will lay me down in Peace, and Sleep, for it is thou, Lord, only that makeſt me dwell in ſafety.</q>
+               </div>
+               <div type="prayer">
+                  <head>An Evening Prayer.</head>
+                  <p>
+                     <hi>O</hi> Lord God, the Father of Mer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ies, and the God of all Comfort, how infinitely am I abaſh'd to appear before thee, who cannot paſs one Day without
+<pb facs="tcp:102169:22"/> offending thee, both by Sins of Omiſſion and Commiſ<g ref="char:EOLhyphen"/>ſion, both by leaving undone thoſe things which I ought to have done, and by doing thoſe things which I ought not to have done. And in both theſe kinds have I offended thee this Day, and that both in Thought, Word, and in Deed; particularly, <hi>[Here mention any Sin of either of the foregoing kinds you have been guilty of.]</hi> But I fly into the Arms of thy Fatherly Compaſſion; Lord for thy Mercies ſake forgive me, cleanſe me from my Wicked<g ref="char:EOLhyphen"/>neſs, and ſtrengthen my Weakneſs, that I may over<g ref="char:EOLhyphen"/>come all the Temptatioas which daily ſurround me, and may henceforward continue ſtedfaſt in my Co<g ref="char:EOLhyphen"/>venant with thee.</p>
+                  <p>Accept of my humbleſt Praiſe and Thanksgiving, O Lord, for all the Goodneſs thou haſt this Day ſhewed me; for all the helps of preventing or reſtrain<g ref="char:EOLhyphen"/>ing Grace thou haſt vouchſafed me; for whatever I have done this Day, which is in any meaſure accepta<g ref="char:EOLhyphen"/>ble to thee, for whatever progreſs I have made in my Study [or <hi>Succeſs thou haſt given to my honeſt Labours</hi>] as alſo for thy Preſervation of me from all the Miſeries and Dangers which frail Mortality is every Moment expoſed to;<note place="margin">This if a Servant.</note> particularly for <hi>[H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re name any particular Bleſſing or Deliverance God has ſent you.]</hi>
+                  </p>
+                  <p>And now, O Lord God, in whoſe Protection con<g ref="char:EOLhyphen"/>ſiſts the ſafety of Man, and of all Creatures, I com<g ref="char:EOLhyphen"/>mit my ſelf wholly to thy Protection thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Night, beſeeching thee that thou wouldſt graciouſly preſerve me from the Power of the Prince of Darkneſs, who to deceive Mankind, can transform himſelf into an Angel of Light; and that thou wouldſt likewiſe pre<g ref="char:EOLhyphen"/>ſerve
+<pb facs="tcp:102169:23"/> me from all Dangers both of Soul and Body. And let me not be ſo overwhelm'd with ſlumber as wholly to forget thee; but when my Body is over<g ref="char:EOLhyphen"/>taken with ſleep, let my Mind continually watch, and be intent upon thee both Day and Night. And when Reſt ſhall have refreſh'd both Body and Mind, as much as ſhall ſuffice Nature, let the Morning find me more apt and propenſe to ſerve thee, to the Salvation of my own Soul, the Good of my Neigh<g ref="char:EOLhyphen"/>bour, and the Glory of thy moſt Holy Name. And all this I beg for Jeſus Chriſt his ſake, to whom with thee, and the Holy Spirit, be aſcribed all Ho<g ref="char:EOLhyphen"/>nour and Glory, by me, and by all Mankind, through<g ref="char:EOLhyphen"/>out all Ages, World without end. <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <hi>[The three following Prayers are to be ad<g ref="char:EOLhyphen"/>ded to the foregoing Morning and Evening Prayer, by the Perſons reſpe<g ref="char:EOLhyphen"/>ctively concern'd in them.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer for a Youth at School.</head>
+                  <p>
+                     <hi>O</hi> God the Father of Lights, and the Giver of every good and perfect Gift, I do render thee all poſſible Praiſe and Thansgiving, that thou haſt put it into the Hearts of my Parents [Guardians] to deliver me up to be inſtructed in good Literature, at an Age which is moſt flexible, and apt to learn. I do humbly intreat thee, that I may not th ough ſloth, or negligence, fail their expectations of me. And becauſe no Vigilance, Induſtry, nor Study will avail any thing without thy aid, vouchſafe, I beſeech thee,
+<pb facs="tcp:102169:23"/> to enlighten my Mind with a Ray from above, and inſpire me with that deſire and love of Learning, Wiſdom, and Vertue; with ſuch a Readineſs to ap<g ref="char:EOLhyphen"/>prehend, and Memory to retain that which is good, that I may become Learned and Pious, and thereby ſerviceable to Church and State, and to the Honour of thy moſt Holy Name. Theſe things, O God, I do moſt earneſtly beg of thee for the ſake of Jeſus Chriſt our Lord, to whom with the Father and the Holy Spirit, be aſcribed all Honour and Praiſe, both now and for evermore. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer to be uſed by Children under the Government of their Parents.</head>
+                  <p>
+                     <hi>O</hi> Eternal God and Heavenly Father, thou that art the kind Author of my Being, be thou the Gracious Guide of my Life. My Age is ſimple and unexperienc'd, and be thou pleas'd to inſpire me with truth from above. I am come into a World of Snares and Temptations; O do thou fill me with the Know<g ref="char:EOLhyphen"/>ledge and Love of thy Truth, that it may keep me from the Path of the Deſtroyer. O poſſeſs my Heart with the fear of thee, and dependance upon thee, that I may walk before thee the Almighty God, and be perfect; that I knowing that thou art my exceeding great Reward, may neither be diſcontented in my pre<g ref="char:EOLhyphen"/>ſent State, nor diſtruſtful of a Proviſion for the fu<g ref="char:EOLhyphen"/>ture. Poſſeſs alſo my Heart, O my God, with that natural tenderneſs for my Parents, and with that Chriſtian ſenſe of my Duty towards 'em, that my Language may be reſpectful, my Actions dutiful, and my whole Behaviour ſuch that I may not encreaſe
+<pb facs="tcp:102169:24"/> the Burden, and Care of their Life, but prove a Comfort and Support to 'em. O my God, poſſeſs me laſtly with a Spirit of Meekneſs, Juſtice, Truth and Induſtry, that by Reverence to my Betters, by Cour<g ref="char:EOLhyphen"/>teouſneſs, Truth, and Faithfulneſs towards all, and by Diligence in whatſoever I am employ'd, I may grow like a Tree planted by the Rivers of Water, my Leaf may not wither, whatſoever I do may proſper, and I may bring forth my Fruit in due ſeaſon, in<g ref="char:EOLhyphen"/>creaſing daily in Wiſdom and Stature, and in fa<g ref="char:EOLhyphen"/>vour with God and Man: Hear, O hear the Voice of my Petition, for in thee only is my truſt, through J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer for a Servant.</head>
+                  <p>
+                     <hi>O</hi> Holy and Juſt God, I know that without Holi<g ref="char:EOLhyphen"/>neſs it is impoſſible for me to pleaſe thee here, or to enjoy thee hereafter; I beſeech thee therefore, that my <g ref="char:V">Ʋ</g>nderſtanding may be ſo enlightened, my Conſcience convinc'd, and my whole Heart enflamed with the love of Holineſs, that I may be Holy in all manner of Converſation. Beget in me a moſt tender and lively Senſe of the great Duties of Obedience, Juſtice and Charity, which I owe to my Maſter; that I governing my ſelf by theſe in all my Actions, I may in my Station advance the Honour of God, the Contentment and Intereſt of my Maſter, the Peace and Vertue of the Family, and my own both Tem<g ref="char:EOLhyphen"/>poral and Eternal Happineſs. I know, O Lord, that no Acts of Injuſtice, or <g ref="char:V">Ʋ</g>nfaithfulneſs between Man and Man, ſhall go unpuniſhed; I know that for theſe things ſake the Wrath of God is reveal'd from Heaven; O what then muſt be my Puniſhment, if I
+<pb facs="tcp:102169:24"/> heap upon the guilt of Injuſtice and <g ref="char:V">Ʋ</g>ncharitableneſs, many others, namely, the Guilt of Ingratitude, <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>faithfulneſs, Lying, Perjury. O preſerve me there<g ref="char:EOLhyphen"/>fore, O my God, from all falſhood and wrong; ſuffer me not to forfeit thy Favour, and deſtroy my Soul, for the ſake of thoſe things which periſh O let me be fully convinc'd, that the ways of Righteouſneſs are ways of Pleaſantneſs, and that all her Paths are Proſperity and Peace, that ſo I may delight my ſelf in the Law of my God, and may find Com<g ref="char:EOLhyphen"/>fort and a Bleſſing in the diſcharge of my Duty: Teach me, O Lord, Humility and Obedience, Faith and Truth, Care and Induſtry, Charity and Meek<g ref="char:EOLhyphen"/>neſs, that I may adorn the Doctrine of God my Saviour, win others over to a Love of Vertue; and after an humble and contented, though laborious Life here, may enter into Reſt and Glory hereafter, through Jeſus Chriſt our Saviour. <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <hi>Our Father,</hi> &amp;c.</p>
+               </div>
+               <div type="prayer">
+                  <pb facs="tcp:102169:25"/>
+                  <head>A Grace before Meat.</head>
+                  <p>BLeſs, O Lord, theſe thy Creatures to our <g ref="char:V">Ʋ</g>ſe, and us unto thy Service, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Grace after Meat.</head>
+                  <p>WE give thee Thanks, O Lord, for theſe, and all other thy Benefits. Good God pre<g ref="char:EOLhyphen"/>ſerve the Church, and ſave the King, and all the Royal Family: And bleſs us with <g ref="char:V">Ʋ</g>nity, Truth, and Peace, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102169:25"/>
+            <pb facs="tcp:102169:26" rendition="simple:additions"/>
+            <pb facs="tcp:102169:26"/>
+         </div>
+      </body>
+   </text>
+</TEI>
